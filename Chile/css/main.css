@@ -1,0 +1,35 @@
+.jumbotron {
+    background-color: rgb(160, 165, 231);
+    color: black;
+}
+
+.btn {
+    background-color: blueviolet;
+    position: absolute;
+}
+
+
+}
+footer {
+    padding: 1rem 1rem 0 1rem;
+    background-color: rgb(160, 165, 231);
+    margin-bottom: 0;
+    font-size: 1.2rem;
+    justify-content: center;
+}
+footer a {
+    justify-content: center;
+}
+.centrar-contenido {
+    justify-content: center;
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+}
+.separacion {
+    flex: 1 150px;
+    padding: 1rem;
+}
+img {
+    justify-content: center;
+    max-width: 100%;
+}
